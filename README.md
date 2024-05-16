@@ -27,3 +27,6 @@ Content: Content was gathered from Google and YouTube.
 
 # Deployment
 The website is deployed at https://stellar-data-recovery.netlify.app/.
+
+# Author
+- [@Abhishek Srivastava]((https://github.com/Abhishek143895) )
