@@ -1,4 +1,8 @@
 # Stellar Data Recovery Website
+
+https://github.com/Abhishek143895/Stellar/assets/80271185/d0e93d6c-c48e-4ee5-9d12-ad913949d1da
+
+
 This repository contains the source code for the Stellar Data Recovery website, developed as part of a task for the second round. The website is designed to provide information about Stellar Data Recovery services and solutions.
 
 # Technologies Used
@@ -29,4 +33,4 @@ Content: Content was gathered from Google and YouTube.
 The website is deployed at https://stellar-data-recovery.netlify.app/.
 
 # Author
-- [@Abhishek Srivastava]((https://github.com/Abhishek143895) )
+- @Abhishek Srivastava - https://www.abhishekfolio.online/
